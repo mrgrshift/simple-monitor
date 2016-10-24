@@ -33,4 +33,5 @@ Inside the screen go to folder simple-monitor and execute:<br>
 `node simple-monitor.js`<br>
 Then go to your browser (PC or phone) and type the IP of your server and your chosen port.
 
-
+####Notice
+This monitor don't auto-reload/auto-refresh, for that please use the button `Refresh`. Remember to wait at least 27 seconds.
