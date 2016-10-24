@@ -27,10 +27,10 @@ After you correct your delegate and you seeing in green again in the explorer, y
 
 
 ###Run the monitor
-For the simple use, create a new screen with command:
-`screen -S serverMonitor`
-Inside the screen go to folder simple-monitor and execute:
-`node simple-monitor.js`
+For the simple use, create a new screen with command:<br>
+`screen -S serverMonitor`<br>
+Inside the screen go to folder simple-monitor and execute:<br>
+`node simple-monitor.js`<br>
 Then go to your browser (PC or phone) and type the IP of your server and your chosen port.
 
 
