@@ -3,8 +3,8 @@ Simple one-click access to monitor your delegate(s)
 
 ##Requirements
 Before run the simple-monitor please install the following packages:<br>
-    - npm install pg
-    - npm install nodemailer
+	- npm install pg
+	- npm install nodemailer
 
 ##Installation
 Execute the following commands
