@@ -46,12 +46,12 @@ var emailTo = "youremailto@gmail.com"; //recipient's email
 var subjectPrefix = "Alert - "; //Prefix for identifying all emails (besides the sender). Will concatenate after the actual date & hour
 ```
 Change the lines as the comments indicate
+####NOTE: sending email was tested only under gmail's services
 
 ##Your Time Zone
 Configure according to your time zone. Remember the Date & Time is from your server, now you need to deduct the hour to get to your time zone.
 Change the variable `offset`, remember the server's time zone is UTC.<br>
 `var offset = -5;`
-####NOTE: sending email was tested only under gmail's services
 
 ##Run the monitor
 For the simple use, create a new screen with command:<br>
