@@ -51,6 +51,7 @@ Change the lines as the comments indicate
 Configure according to your time zone. Remember the Date & Time is from your server, now you need to deduct the hour to get to your time zone.
 Change the variable `offset`, remember the server's time zone is UTC.<br>
 `var offset = -5;`
+*NOTE: sending email was tested only under gmail's services
 
 ##Run the monitor
 For the simple use, create a new screen with command:<br>
